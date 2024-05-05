@@ -7,7 +7,10 @@
 
 
 ## Preview
-![Preview](https://i.ibb.co/5FMPBS0/astro8-0.png)
+<p float="left" align="center">
+  <img src="https://i.ibb.co/5FMPBS0/astro8-0.png" width="300" />
+</p>
+
 
 
 ## Overview
