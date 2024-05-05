@@ -27,8 +27,11 @@ This prototype was made in C using the [GBDK devkit](https://github.com/gbdk-202
 Beware to set your emulator control befeore !
 
 A -> Go to (rule ?) screen
+
 B -> Shoot
+
 Up/Down/Right/Left -> Move the ship
+
 Start -> Start the game
 
 
