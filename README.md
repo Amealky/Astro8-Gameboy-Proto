@@ -2,12 +2,12 @@
 
 <h1 align="center"> Astro8 Prototype <h1>
 
-<img src="https://img.shields.io/badge/platform-gameboy-yellowgreen" />
-<img src="https://img.shields.io/badge/language-c-lightgrey" />
+<p align="center">
+        <img src="https://img.shields.io/badge/Gameboy-%204--2--1?style=for-the-badge&label=platform&color=yellowgreen">
+        <img src="https://img.shields.io/badge/C-%204--2--1?style=for-the-badge&logo=SDL&logoColor=white&label=language&color=lightgrey">
+</p>
 
-
-## Preview
-<p float="left" align="center">
+<p align="center">
   <img src="https://i.ibb.co/5FMPBS0/astro8-0.png" width="300" />
 </p>
 
